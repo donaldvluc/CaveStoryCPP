@@ -1,7 +1,3 @@
-Testing
-opop
-=======
-
 # Cave Story C++
 
 ### Source (Limeoats YT Playlist):
